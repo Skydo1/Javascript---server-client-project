@@ -1,0 +1,2 @@
+dark mode
+Add a dark night mode to the site, allowing users to switch between dark and light backgrounds by clicking the circular button below. It is convenient for users to use at night and when the light is low.
